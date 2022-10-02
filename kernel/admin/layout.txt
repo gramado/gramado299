@@ -1,0 +1,7 @@
+
+/admin
+	Some design notes and scripts.
+/control
+	The boot loader and the kernel.
+/exposed
+	Init process and command application.
